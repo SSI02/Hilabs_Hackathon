@@ -358,7 +358,7 @@ hilabs_hack/
 
 #### Option 1: Python Script
 ```bash
-python 04_advanced_improvements.py
+python submission.py
 ```
 
 #### Option 2: Jupyter Notebook
@@ -366,7 +366,7 @@ python 04_advanced_improvements.py
    ```bash
    jupyter notebook
    ```
-2. Open `04_advanced_improvements.ipynb`
+2. Open `submission.ipynb`
 3. Run all cells (Cell → Run All)
 
 ### Expected Output
@@ -438,7 +438,8 @@ The best model (typically the stacked ensemble) is selected based on validation 
 hilabs_hack/
 ├── README.md                           # This file
 ├── requirements.txt                    # Python dependencies
-├── 04_advanced_improvements.py         # Main Python script
+├── submission.ipynb
+├── submission.py         # Main Python script
 ├── pcms_hackathon_data/                # Input data
 │   ├── train/
 │   └── test/
