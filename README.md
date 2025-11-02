@@ -1,5 +1,3 @@
-# HiLabs Hackathon 2025 - Advanced Model Improvements
-
 ## Overview
 
 This project implements an advanced machine learning pipeline for predicting patient risk scores in a healthcare setting. The solution employs ensemble methods, feature engineering, and hyperparameter optimization to maximize prediction accuracy.
