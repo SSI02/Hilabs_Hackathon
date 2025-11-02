@@ -1,17 +1,3 @@
-"""
-Advanced Model Improvements - HiLabs Hackathon 2025
-Techniques to maximize accuracy and real-world relevance
-
-This script implements:
-1. Hyperparameter optimization (Optuna)
-2. Target transformation for skewed distributions
-3. Advanced feature engineering
-4. Model stacking
-5. Outlier handling
-6. Feature importance-based selection
-7. Post-processing techniques
-"""
-
 import pandas as pd
 import numpy as np
 from pathlib import Path
